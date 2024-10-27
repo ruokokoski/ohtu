@@ -16,7 +16,6 @@ class Varasto:
             # täyteen ja ylimäärä hukkaan!
             self.saldo = tilavuus
 
-    # tämä rivi on pylintin mielestä aivan liian pitkä. Viikon 2 tehtävä 4 GitHub Actions testi.
     # huom: ominaisuus voidaan myös laskea.
     # Ei tarvita erillistä kenttää viela_tilaa tms.
     def paljonko_mahtuu(self):
